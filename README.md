@@ -5,7 +5,7 @@
 I absolutely love working with data, and my curiosity knows no bounds. Learning is a never-ending journey, and there's always something new to discover and skills to acquire. What truly fascinates me is the ability to uncover valuable insights from data through the magic of coding. Python is my go-to coding language, and I'm also pretty handy with SQL and enjoy using business intelligence tools like Power BI.
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://github.com/ola-smaha/ola-smaha/blob/main/Postgresql_elephant.png" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a> <img src="https://github.com/ola-smaha/ola-smaha/blob/main/social-default-image.png" </a> </p>
+<p align="left"> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://github.com/ola-smaha/ola-smaha/blob/main/Postgresql_elephant.png" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a> <img src="https://github.com/ola-smaha/ola-smaha/blob/main/social-default-image.png" width="40" height="40"></a> </p>
 
 ### Skills
 `PYTHON` / `SQL` / `POSTGRESQL` / `POWER BI`
