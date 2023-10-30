@@ -1,4 +1,4 @@
-### Hi there! My name is Ola :D
+### Hi there! My name is Ola.
 #### I am a junior Data Analyst & Engineer
 ![I am a junior Data Analyst & Engineer](https://media.licdn.com/dms/image/D4E16AQHuUylJ1Dtudw/profile-displaybackgroundimage-shrink_350_1400/0/1698244833538?e=1704326400&v=beta&t=hLccKAl4XJDXTaIUaWOEs1UzY2rn9vnam7Pdo5PRtx8)
 
