@@ -9,7 +9,7 @@ I absolutely love working with data, and my curiosity knows no bounds. I believe
 
 
 ### Report Examples
-
+| Example 1 | Example 2 |
 | ---| ---|
 | ![ex1](https://github.com/ola-smaha/ola-smaha/blob/main/overview.gif) | ![ex2](https://github.com/ola-smaha/ola-smaha/blob/main/adoption.gif) |
 
