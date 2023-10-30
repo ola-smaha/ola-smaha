@@ -4,7 +4,7 @@
 
 I absolutely love working with data, and my curiosity knows no bounds. Learning is a never-ending journey, and there's always something new to discover and skills to acquire. What truly fascinates me is the ability to uncover valuable insights from data through the magic of coding. Python is my go-to coding language, and I'm also pretty handy with SQL and enjoy using business intelligence tools like Power BI.
 
-** Skills: `PYTHON` / `SQL` / `POSTGRESQL` / `POWER BI` **
+**Skills:** `PYTHON` / `SQL` / `POSTGRESQL` / `POWER BI`
 
 - 📫 How to reach me: olasmaha@gmail.com 
 
