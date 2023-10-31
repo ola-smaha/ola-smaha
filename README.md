@@ -20,9 +20,9 @@ I absolutely love working with data 📊, and my curiosity knows no bounds. I be
 <br>
 
 ## Power BI Report Examples
-|  |  |
-| ---| ---|
-| ![ex1](https://github.com/ola-smaha/ola-smaha/blob/main/overview.gif) | ![ex2](https://github.com/ola-smaha/ola-smaha/blob/main/adoption.gif) |
+|  |
+|---|
+| ![ex2](https://github.com/ola-smaha/ola-smaha/blob/main/adoption.gif) |
 
 <br>
 <p align="center">
