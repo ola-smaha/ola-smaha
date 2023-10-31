@@ -29,5 +29,25 @@ I absolutely love working with data 📊, and my curiosity knows no bounds. I be
   <a href="https://github.com/ola-smaha" target="_blank" rel="noreferrer">
     <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
   </a>
-
+  <a href="https://github.com/ola-smaha" target="_blank" rel="noreferrer">
+    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/ola-smaha/" target="_blank" rel="noreferrer">
+    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/ola_smaha/" target="_blank" rel="noreferrer">
+    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>
+  </a>
+  &nbsp;
+  <a href="https://wa.me/+96170363775" target="_blank" rel="noreferrer">
+    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>
+  </a>
+  &nbsp;
+  <a href="mailto:olasmaha@gmail.com" target="_blank" rel="noreferrer">
+    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>
+  </a>
 </p>
+
+
