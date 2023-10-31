@@ -22,7 +22,7 @@ I absolutely love working with data 📊, and my curiosity knows no bounds. I be
 ## Power BI Report Examples
 |  |
 |---|
-| <img src="https://github.com/ola-smaha/ola-smaha/blob/main/adoption.gif" width="300") |
+| <img src="https://github.com/ola-smaha/ola-smaha/blob/main/adoption.gif" width="300"/> |
 
 <br>
 <p align="center">
