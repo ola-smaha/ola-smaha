@@ -31,9 +31,6 @@ I absolutely love working with data 📊, and my curiosity knows no bounds. I be
   <a href="https://github.com/ola-smaha" target="_blank" rel="noreferrer">
     <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>
   </a>
-  <a href="https://github.com/ola-smaha" target="_blank" rel="noreferrer">
-    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>
-  </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/ola-smaha/" target="_blank" rel="noreferrer">
     <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>
