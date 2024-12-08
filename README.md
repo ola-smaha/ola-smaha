@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning about **PHP, Laravel, GCP**
 
-💬 Ask me about **Python, SQL, Looker Studi, Airbyte... or anything [here](https://github.com/ola-smaha/ola-smaha/issues)**
+💬 Ask me about **Python, SQL, Looker Studio, Airbyte... or anything [here](https://github.com/ola-smaha/ola-smaha/issues)**
 
  </div>
  
