@@ -51,8 +51,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=400 src='http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ola-smaha&theme=nord_dark' />
-  <br>
+  <img width=400 src='https://github-readme-stats-sigma-five.vercel.app/api?username=ola-smaha&theme=nord&show_icons=true&hide_border=true&count_private=true&rank_icon=github' />  <br>
   <img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=ola-smaha&theme=nord&hide_border=true' />
   <br>
   <img width=400 src='https://github-readme-activity-graph.vercel.app/graph?username=ola-smaha&theme=nord&hide_border=true' />
