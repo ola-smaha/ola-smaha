@@ -50,11 +50,26 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
-    <img width=400 src='https://github-readme-stats.vercel.app/api?username=ola-smaha&theme=nord&show_icons=true&hide_border=true&count_private=true&rank_icon=github' />
-    <br>
-    <img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=ola-smaha&theme=nord&hide_border=true' />
+<div align="center">
+  <img
+    width="400"
+    src="https://github-readme-stats-fast.vercel.app/api
+      ?username=ola-smaha
+      &theme=nord
+      &show_icons=true
+      &hide_border=true
+      &count_private=true"
+  />
+  <br />
+  <img
+    width="400"
+    src="https://github-readme-stats-fast.vercel.app/api/streak
+      ?username=ola-smaha
+      &theme=nord
+      &hide_border=true"
+  />
 </div>
+
 <br/><br/>
 
 <hr/>
