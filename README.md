@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **Blinkmetrics**
  
- 🌱 I’m currently learning about **PHP, Laravel, GCP**
+ 🌱 I’m currently learning about **PHP, Laravel, GCP, dltHub and Superset**
 
 💬 Ask me about **Python, SQL, Looker Studio, Airbyte... or anything [here](https://github.com/ola-smaha/ola-smaha/issues)**
 
